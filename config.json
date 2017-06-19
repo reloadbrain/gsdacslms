@@ -10,8 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-"presets" : {"url": "https://www.gsdacs.org/lms/login/index.php", "username": ""},
-    "siteurl": "https://www.gsdacs.org/lms/",
+    "presets" : {"url": "https://www.gsdacs.org/lms/login/index.php", "username": ""},
+    "siteurl":"https://www.gsdacs.org/lms/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.gsdacs.org/about.html"
