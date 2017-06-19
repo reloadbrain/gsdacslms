@@ -1,4 +1,4 @@
-{
+﻿{
     "app_id" : "lms.gsdacs.gsdacslms",
     "appname": "GSDACS LMS",
     "versioncode" : "2018",
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://www.gsdacs.org/lms/login/index.php",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.gsdacs.org/about.html"
