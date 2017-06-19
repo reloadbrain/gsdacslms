@@ -1,15 +1,16 @@
-﻿{
+{
     "app_id" : "lms.gsdacs.gsdacslms",
     "appname": "GSDACS LMS",
     "versioncode" : "2018",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
-    "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
+    "languages": {"ar": "????", "bg": "?????????", "ca": "Catal�", "cs": "?e�tina", "da": "Dansk", "de": "Deutsch", "el": "????????", "en": "English", "es": "Espa�ol", "es-mx": "Espa�ol - M�xico", "eu": "Euskara", "fa": "?????", "fr" : "Fran�ais", "he" : "?????", "hu": "magyar", "it": "Italiano", "ja": "???","nl": "Nederlands", "pl": "Polski", "pt-br": "Portugu�s - Brasil", "pt": "Portugu�s - Portugal", "ro": "Rom�n?", "ru": "???????", "sv": "Svenska", "tr" : "T�rk�e", "uk" : "??????????", "zh-cn" : "????", "zh-tw" : "????"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+"presets" : {"url": "https://www.gsdacs.org/lms/login/index.php", "username": ""},
     "siteurl": "https://www.gsdacs.org/lms/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
