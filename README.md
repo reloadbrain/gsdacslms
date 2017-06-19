@@ -1,2 +1,0 @@
-# gsdacslms
-GSDACS LMS App
