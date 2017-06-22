@@ -2,27 +2,27 @@
     <ion-content mm-state-class>
         <ul class="list">
             <li class="item">
-                <h2>{{appname}} {{versionname}}</h2>
+                <h2>GSDACS LMS 1.0</h2>
             </li>
             <li class="item item-divider">
                 <p>{{ 'mm.settings.license' | translate }}</p>
             </li>
             <li class="item item-text-wrap">
-                <h2>Apache 2.0</h2>
-                <p><a href="http://www.apache.org/licenses/LICENSE-2.0" mm-link auto-login="no">http://www.apache.org/licenses/LICENSE-2.0</a></p>
+                <h2>GSDACS 2017</h2>
+                <p><a href="https://gsdacs.org/" mm-link auto-login="no">https://www.gsdacs.org</a></p>
             </li>
             <li class="item item-divider" ng-if="privacyPolicy">
                 <p>{{ 'mm.settings.privacypolicy' | translate }}</p>
             </li>
             <li class="item item-text-wrap" ng-if="privacyPolicy">
-                <p><a ng-href="{{ privacyPolicy }}" mm-link auto-login="no">{{ privacyPolicy }}</a></p>
+                <p><a ng-href="https://gsdacs.org/About.html" mm-link auto-login="no">https://gsdacs.org/About.html</a></p>
             </li>
             <li class="item item-divider">
                 <p>{{ 'mm.settings.deviceinfo' | translate }}</p>
             </li>
             <li class="item item-text-wrap" ng-if="versionname">
                 <p class="item-heading">{{ 'mm.settings.versionname' | translate}}</p>
-                <p>{{ versionname }}</p>
+                <p>1.0</p>
             </li>
             <li class="item item-text-wrap" ng-if="versioncode">
                 <p class="item-heading">{{ 'mm.settings.versioncode' | translate}}</p>
